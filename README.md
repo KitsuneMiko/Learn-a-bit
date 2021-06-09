@@ -20,6 +20,6 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
 ## Learn-a-bit starter files
 
-Here you will find starter files for every Learna-a-bit challenge.
+Here you will find starter files for every Learn-a-bit challenge.
 
 [Challenge #1 - Header](./Challenge01)
